@@ -5,4 +5,3 @@ Git is free software.
 大撒反对
 we are friends
 
-远程仓库添加的一行
