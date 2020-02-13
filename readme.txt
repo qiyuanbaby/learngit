@@ -6,3 +6,13 @@ Git is free software.
 we are friends
 
 远程仓库添加的一行
+
+
+
+
+
+
+
+
+
+远程添加的第二行
